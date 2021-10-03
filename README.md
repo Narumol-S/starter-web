@@ -1,8 +1,8 @@
 # Starter Web Repo
 
-## introduction ??๑๑ commit???
+This is a simple websit project for showing how to use Git and Github together
 
-This repository is for showing how Git and GitHub work
+## introduction 
 
 ## Purpose
 
