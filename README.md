@@ -8,4 +8,10 @@ this is example is to show different parts of ghe git repo and various command u
 
 ## Purpose
 
+as stated above, the main purpose is to provide simple examples	for git training deomos.
+
+## Deployment
+
+This is a simple web project.
+
 Sample website with plenty of files for demos
