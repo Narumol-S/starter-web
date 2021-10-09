@@ -15,3 +15,7 @@ as stated above, the main purpose is to provide simple examples	for git training
 This is a simple web project.
 
 Sample website with plenty of files for demos
+
+### copyright
+
+2021 git.training.
