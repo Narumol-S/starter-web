@@ -18,4 +18,4 @@ Sample website with plenty of files for demos
 
 ### copyright
 
-2021 git.training.
+20202020 git.training.
