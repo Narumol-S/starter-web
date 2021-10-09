@@ -14,6 +14,8 @@ as stated above, the main purpose is to provide simple examples	for git training
 
 This is a simple web project.
 
+please fork this reprository
+
 Sample website with plenty of files for demos
 
 ### copyright
